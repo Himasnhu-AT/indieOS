@@ -14,8 +14,9 @@ This repo is continuation of following repos' in my journey of learning how comp
 - [x] Bootsector
 - [ ] Kernel
   - [x] Fat-12 Filesystem
+  - [x] made bootloader in c
 
-![FAT 12 Filesystem](./assets.git/working-fat.png)
+![C bootloader](./assets.git/c-bootloader.png)
 
 > #### TODO: Update readme
 
@@ -26,6 +27,7 @@ This repo is continuation of following repos' in my journey of learning how comp
 > - brew install qemu
 > - brew install dosfstools
 > - brew install mtools
+> - watcom
 
 ## Build and run the OS
 
