@@ -8,6 +8,15 @@ This repo is continuation of following repos' in my journey of learning how comp
 
 - [OS Basic Demo](https://github.com/Himasnhu-AT/OS-basic-Demo): scripts to build linux based OS as per LFS, BLFS ...
 
+### Progress Tracker:
+
+- [x] Bootloader
+- [x] Bootsector
+- [ ] Kernel
+  - [x] Fat-12 Filesystem
+
+![FAT 12 Filesystem](./assets.git/working-fat.png)
+
 > #### TODO: Update readme
 
 > Packages Used:
@@ -15,6 +24,8 @@ This repo is continuation of following repos' in my journey of learning how comp
 > - brew install make
 > - brew install nasm
 > - brew install qemu
+> - brew install dosfstools
+> - brew install mtools
 
 ## Build and run the OS
 
