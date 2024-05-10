@@ -27,7 +27,11 @@ This repo is continuation of following repos' in my journey of learning how comp
 > - brew install qemu
 > - brew install dosfstools
 > - brew install mtools
-> - watcom
+>
+> ##### watcom is only present in windows and linux. this repo is stale for time being as I experiment with other alternatives
+> - watcom 
+
+
 
 ## Build and run the OS
 
