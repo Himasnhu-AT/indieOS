@@ -33,7 +33,7 @@ This repo is continuation of following repos' in my journey of learning how comp
 
 
 
-## Build and run the OS
+## Build and run the OS using qemu
 
 ```bash
 make
